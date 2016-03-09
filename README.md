@@ -1,2 +1,2 @@
 # hello-world
-New user
+New user, trying to learn the feature of this hub.
